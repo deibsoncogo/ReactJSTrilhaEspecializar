@@ -1,0 +1,21 @@
+# folders
+node_modules
+coverage
+dist
+build
+tmp
+.next
+.vercel
+
+# files extension
+**.log**
+**.env**
+**.DS_Store**
+**.eslintcache**
+
+# files name and extension
+production.md
+notes.md
+
+# exceptions
+!.env.example
