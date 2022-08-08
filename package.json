@@ -1,0 +1,13 @@
+{
+  "name": "ReactJSTrilhaEspecializar",
+  "version": "1.0.0",
+  "description": "Criação de um projeto utilizando o React JS e o Vite JS para aprender sobre seus conceitos fundamentais",
+  "main": "index.js",
+  "repository": "git@github.com:deibsoncogo/ReactJSTrilhaEspecializar.git",
+  "author": "Deibson Cogo <deibsoncogorotaract@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
