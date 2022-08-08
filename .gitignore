@@ -19,3 +19,13 @@ notes.md
 
 # exceptions
 !.env.example
+
+# outher
+dist-ssr
+*.local
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
