@@ -1,0 +1,40 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.home h1 {
+  margin: 84px 0px 24px;
+}
+
+.home input {
+  width: 50%;
+  border: none;
+  border-radius: 5px;
+  padding: 24px;
+
+  font-size: 16px;
+  background: #e6e6e6;
+}
+
+.home button {
+  width: 50%;
+  margin: 12px 0px 84px;
+  border: none;
+  border-radius: 5px;
+  padding: 24px;
+
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 16px;
+
+  background: #ea4c89;
+
+   transition:  filter 0.2s;
+}
+
+.home button:hover {
+  filter: brightness(0.9)
+}
