@@ -13,7 +13,7 @@ html,
 body {
   color: var(--fontColor);
   background-color: var(--backgroundColor);
-  font: normal 400 normal 14px sans-serif, serif;
+  font: normal 400 normal 16px 'Roboto', sans-serif;
   user-select: none;
   cursor: default;
 }
